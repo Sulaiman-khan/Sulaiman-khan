@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sulaiman Khan</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvintechdesign.com%2Fweb-development%2F&psig=AOvVaw3ivl7ZwjIgd2fD07Fl8P4f&ust=1720353326994000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjvvujYrZKHAxXomf0HHR0RBc0QjRx6BAgAEBQ">
+<img align="right" alt="Coding" width="400" src="https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefaizanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="sefaizanahmad" /> </p>
 
