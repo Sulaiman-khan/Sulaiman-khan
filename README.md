@@ -30,6 +30,7 @@
 
 
 ## 💻 Languages and Tools
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-E34F26?style=for-the-badge&logo=photoshop&logoColor=white)](https://github.com/Sulaiman-khan)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Sulaiman-khan)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Sulaiman-khan)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Sulaiman-khan)
@@ -57,22 +58,22 @@
   </tr>
   <tr>
     <td>
-<a href="https://github.com/sefaizanahmad/sefaizanahmad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sefaizanahmad&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="sefaizanahmad GitHub Stats" />
+<a href="https://github.com/Sulaiman-khan/Sulaiman-khan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sulaiman-khan&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Sulaiman-khan GitHub Stats" />
 </a></td>
     <td>
    
-  <a href="https://github.com/sefaizanahmad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaizanahmad&theme=highcontrast" />
+  <a href="https://github.com/Sulaiman-khan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaiman-khan&theme=highcontrast" />
 </a>
 </td>
   </tr>
   </table>
   
 ## 🔄 Consistency
-![](https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sulaiman-khan&theme=dark&hide_border=true)<br/>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sefaizanahmad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sulaiman-khan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
